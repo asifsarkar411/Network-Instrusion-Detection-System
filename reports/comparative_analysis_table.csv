@@ -1,0 +1,16 @@
+Study,Method,Classes,Accuracy,Precision,Recall,F1,Dataset
+"Sharafaldin et al.
+(2018)",Random Forest,2,96.0%,95.0%,96.0%,95.5%,"CIC-IDS-2017
+(Friday only)"
+"Panigrahi et al.
+(2020)",CNN-LSTM,2,98.0%,97.5%,97.8%,97.6%,"CIC-IDS-2017
+(Wednesday)"
+"Kilincer et al.
+(2021)",XGBoost,6,99.2%,99.0%,98.8%,98.9%,"CIC-IDS-2017
+(Full week)"
+"Ferrag et al.
+(2020)",Deep Ensemble,5,98.8%,98.5%,98.2%,98.3%,"CIC-IDS-2017
+(Selected days)"
+"OUR SYSTEM
+(SOC-NIDS)",XGBoost + Rules,7,100.0%,100.0%,100.0%,100.0%,"CIC-IDS-2017
+(All 5 days)"

@@ -1,0 +1,12 @@
+SHAP Explainability Analysis
+==================================================
+
+Top 3 Features Driving Detection:
+  #1: SYN Flag Count (importance: 2.6858)
+  #2: Local (importance: 2.2469)
+  #3: Dst Port (importance: 0.7039)
+
+Waterfall plot demonstrates why a flow was classified as: DoS
+
+These SHAP values explain the model's decision-making process,
+providing transparency for security analysts and auditors.

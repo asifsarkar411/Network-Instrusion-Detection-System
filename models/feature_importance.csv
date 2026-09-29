@@ -1,0 +1,87 @@
+feature,importance
+SYN Flag Count,0.1653493
+PSH Flag Count,0.13513717
+Flow Duration,0.13486868
+Fwd Packet Length Std,0.12452199
+Bwd Packet Length Std,0.11816576
+Packet Length Mean,0.055895757
+Fwd PSH Flags,0.043599334
+Average Packet Size,0.031156119
+Local,0.02494692
+Packet Length Std,0.02218811
+Fwd Packet Length Max,0.02126574
+Active Min,0.019773763
+FWD Init Win Bytes,0.015485699
+Fwd Packet Length Mean,0.0121223265
+Idle Mean,0.011100499
+Fwd Seg Size Min,0.0060239346
+Bwd IAT Mean,0.0049792067
+Bwd Packet Length Min,0.0046813097
+Bwd IAT Max,0.004033189
+Fwd Bulk Rate Avg,0.0033964685
+Bwd Packets/s,0.003131515
+Total Length of Fwd Packet,0.0030467554
+Idle Min,0.0028593116
+Bwd RST Flags,0.002318292
+FIN Flag Count,0.0022498681
+Subflow Bwd Bytes,0.002185181
+Bwd Packet/Bulk Avg,0.001794908
+Bwd Packet Length Mean,0.0017854442
+Packet Length Max,0.0014946153
+Packet Length Variance,0.0013358503
+Bwd IAT Total,0.0013173962
+Active Max,0.0013048587
+Bwd IAT Std,0.0012599474
+Fwd IAT Min,0.001175643
+Down/Up Ratio,0.0011267315
+Subflow Fwd Bytes,0.001077401
+Idle Std,0.0010100654
+Total Length of Bwd Packet,0.0009959608
+Bwd PSH Flags,0.0007763315
+Total TCP Flow Time,0.00071362447
+Idle Max,0.0006758777
+Bwd Bulk Rate Avg,0.00064522406
+Fwd Packet Length Min,0.0004965631
+Dst Port,0.00043812703
+ACK Flag Count,0.0004183982
+RST Flag Count,0.00040614617
+Bwd Packet Length Max,0.00040328706
+Fwd IAT Total,0.00038681677
+Fwd IAT Std,0.00036343338
+Bwd Bytes/Bulk Avg,0.0003602119
+Src Port,0.0003574429
+Flow IAT Max,0.00034215918
+Fwd IAT Max,0.0003383749
+Fwd Bytes/Bulk Avg,0.0003157103
+Bwd Init Win Bytes,0.0002830857
+Active Std,0.00026932525
+Flow Bytes/s,0.0002280943
+Bwd Segment Size Avg,0.00021369838
+Total Fwd Packet,0.00014823358
+Packet Length Min,0.00014699293
+Total Bwd packets,0.000131029
+Fwd Header Length,0.00012626348
+ICMP Type,0.00010842232
+Flow Packets/s,9.284715e-05
+Fwd Packet/Bulk Avg,8.420293e-05
+Bwd IAT Min,7.666762e-05
+Fwd Segment Size Avg,7.434518e-05
+Fwd Act Data Pkts,7.3557356e-05
+Fwd IAT Mean,6.5906475e-05
+Fwd RST Flags,5.08815e-05
+Flow IAT Std,4.6387675e-05
+ICMP Code,3.5128167e-05
+Flow IAT Min,3.1010855e-05
+Protocol,2.7697544e-05
+CWR Flag Count,2.2779865e-05
+Bwd Header Length,2.2293112e-05
+Active Mean,1.8437973e-05
+Flow IAT Mean,1.3131976e-05
+Fwd Packets/s,1.0828133e-05
+URG Flag Count,0.0
+Fwd URG Flags,0.0
+Bwd URG Flags,0.0
+Subflow Bwd Packets,0.0
+Subflow Fwd Packets,0.0
+ECE Flag Count,0.0
+Attempted Category,0.0

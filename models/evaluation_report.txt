@@ -1,0 +1,28 @@
+SOC-NIDS Model Evaluation Report
+============================================================
+
+Classes: ['Benign', 'DoS', 'PortScan', 'WebAttack']
+Features: 86
+
+Model: XGBoost
+  Accuracy:      1.0000
+  F1 (weighted): 1.0000
+  F1 (macro):    0.9833
+
+  Per-Class F1:
+    Benign         : 1.0000
+    DoS            : 0.9999
+    PortScan       : 0.9999
+    WebAttack      : 0.9333
+
+Model: Random Forest
+  Accuracy:      0.9999
+  F1 (weighted): 0.9999
+  F1 (macro):    0.9741
+
+  Per-Class F1:
+    Benign         : 1.0000
+    DoS            : 0.9999
+    PortScan       : 0.9999
+    WebAttack      : 0.8966
+

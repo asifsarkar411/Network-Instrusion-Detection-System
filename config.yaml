@@ -1,0 +1,32 @@
+capture:
+  interface: ""
+  duration_minutes: 25
+  ring_buffer_size: 10000
+  bpf_filter: "tcp or (udp and port 53)"
+  snapshot_length: 65535
+
+flow:
+  timeout_seconds: 60
+  max_active_flows: 500
+
+analysis:
+  rule_weight: 0.4
+  ml_weight: 0.6
+  alert_threshold: 0.7
+
+storage:
+  database_path: "data/nids_alerts.db"
+
+notifications:
+  email_enabled: false
+  slack_enabled: false
+  min_severity: "high"
+  cooldown_seconds: 60
+  smtp:
+    host: "smtp.gmail.com"
+    port: 587
+    from_email: "nids@localhost"
+    to_email: "admin@localhost"
+    username: ""
+    password: ""
+  slack_webhook_url: ""

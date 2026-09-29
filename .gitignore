@@ -1,0 +1,31 @@
+# Python virtual environments
+venv/
+env/
+ENV/
+*.venv/
+
+# Python cache & build
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Datasets and SQLite DBs (CIC-IDS CSVs are 1.7GB+ total; exceeding GitHub limits)
+data/*.csv
+data/*.db
+*.sqlite
+*.sqlite3
+
+# Operating System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo

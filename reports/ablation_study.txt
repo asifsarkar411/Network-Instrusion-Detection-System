@@ -1,0 +1,9 @@
+SOC-NIDS Ablation Study (Leak-Free Evaluation)
+============================================================
+
+Method                      Accuracy  Precision     Recall         F1
+-----------------------------------------------------------------
+XGBoost (ML Only)             0.9922     0.9929     0.9922     0.9924
+Rule Engine Only              0.7868     0.6191     0.7868     0.6929
+Hybrid (Fusion)               0.9945     0.9938     0.9945     0.9941
+Isolation Forest              0.7026     0.1080     0.0544     0.0724

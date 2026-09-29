@@ -1,0 +1,83 @@
+feature,importance
+Packet Length Min,0.19724439
+SYN Flag Count,0.07417962
+Down/Up Ratio,0.07016612
+Fwd PSH Flags,0.06462973
+Fwd Packet Length Std,0.05562712
+Flow Bytes/s,0.053803124
+Bwd Packet Length Max,0.053342693
+Total Length of Fwd Packet,0.05158992
+Bwd IAT Min,0.036898166
+Packet Length Max,0.024444988
+Subflow Fwd Bytes,0.023130909
+FWD Init Win Bytes,0.020799315
+Total Length of Bwd Packet,0.020729959
+Bwd IAT Max,0.017652407
+Bwd Bulk Rate Avg,0.014443427
+Bwd Packets/s,0.0136263855
+Idle Max,0.0130520975
+Bwd Segment Size Avg,0.012723293
+Bwd IAT Std,0.012313992
+Packet Length Mean,0.011058963
+Fwd Header Length,0.010691479
+Fwd Packet Length Max,0.0100579085
+Bwd Packet Length Std,0.009677403
+Packet Length Variance,0.007928579
+Fwd Act Data Pkts,0.0065805633
+Fwd Packet/Bulk Avg,0.006338689
+Bwd Header Length,0.0060042324
+PSH Flag Count,0.0060004136
+Fwd Bytes/Bulk Avg,0.005757683
+Fwd Packet Length Mean,0.005502611
+Bwd Packet/Bulk Avg,0.005500382
+Bwd Packet Length Mean,0.0053170878
+Active Min,0.0050100293
+Fwd Segment Size Avg,0.0047416934
+Subflow Bwd Bytes,0.004637425
+Fwd Packet Length Min,0.0043531694
+Flow IAT Mean,0.0042995755
+Idle Mean,0.0041399025
+Bwd Init Win Bytes,0.0037024135
+Total TCP Flow Time,0.002729834
+Bwd PSH Flags,0.0027126935
+Average Packet Size,0.002619208
+Fwd IAT Min,0.0023397547
+Bwd IAT Total,0.0022865133
+Fwd Seg Size Min,0.0022199072
+Flow Duration,0.0019748937
+Active Max,0.0019534454
+Fwd IAT Total,0.0019002822
+Total Bwd packets,0.0017825097
+Packet Length Std,0.0016567638
+ACK Flag Count,0.0015830427
+Flow IAT Max,0.0015753239
+Protocol,0.0015381818
+Fwd IAT Mean,0.0014742432
+ICMP Type,0.00127426
+Idle Std,0.0011080052
+Fwd IAT Max,0.0010573579
+FIN Flag Count,0.0010537128
+Bwd Bytes/Bulk Avg,0.0010470531
+Attempted Category,0.00090803264
+Fwd RST Flags,0.0007133171
+Active Mean,0.0006412306
+Flow IAT Std,0.00059752195
+RST Flag Count,0.00040761204
+Bwd IAT Mean,0.00040329734
+Total Fwd Packet,0.00038069332
+Fwd IAT Std,0.0003773533
+Idle Min,0.00036157205
+Fwd Bulk Rate Avg,0.00028857935
+ICMP Code,0.00028786674
+Flow IAT Min,0.0002684089
+Bwd Packet Length Min,0.00021611154
+Bwd RST Flags,0.00020779905
+Active Std,0.00019226976
+Flow Packets/s,6.8184425e-05
+Subflow Bwd Packets,4.7112604e-05
+Subflow Fwd Packets,2.6148664e-05
+Fwd Packets/s,2.2079113e-05
+URG Flag Count,0.0
+Bwd URG Flags,0.0
+CWR Flag Count,0.0
+ECE Flag Count,0.0
